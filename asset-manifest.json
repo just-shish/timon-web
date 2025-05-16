@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timon-web/static/css/main.e6c13ad2.css",
+    "main.js": "/timon-web/static/js/main.22868c98.js",
+    "static/js/453.ea960edf.chunk.js": "/timon-web/static/js/453.ea960edf.chunk.js",
+    "index.html": "/timon-web/index.html",
+    "main.e6c13ad2.css.map": "/timon-web/static/css/main.e6c13ad2.css.map",
+    "main.22868c98.js.map": "/timon-web/static/js/main.22868c98.js.map",
+    "453.ea960edf.chunk.js.map": "/timon-web/static/js/453.ea960edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.22868c98.js"
+  ]
+}
